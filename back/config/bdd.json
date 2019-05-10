@@ -1,0 +1,6 @@
+{
+    "server"    : "cluster0-4ttq8.gcp.mongodb.net",
+    "database"  : "testscrap",
+    "username"  : "app",
+    "password"  : "kH2iJODn6LL1AJvq"
+  }
